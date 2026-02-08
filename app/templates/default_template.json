@@ -1,0 +1,5 @@
+{
+  "description": "Default OMR template placeholder",
+  "questions": 100,
+  "choices": 4
+}
