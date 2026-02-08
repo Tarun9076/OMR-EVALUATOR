@@ -1,10 +1,5 @@
 streamlit
-opencv-python
 numpy
 pandas
-Pillow
-imutils
-scikit-image
-openpyxl
+pillow
 opencv-python-headless
-
