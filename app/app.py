@@ -3,7 +3,11 @@ import json
 import numpy as np
 import pandas as pd
 from PIL import Image
+import sys
+import os
 
+
+sys.path.append(os.path.dirname(__file__))
 from core.omr_detector import preprocess_image
 from core.grader import grade_from_template
 from utils.file_utils import load_answer_key
