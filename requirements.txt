@@ -6,3 +6,5 @@ Pillow
 imutils
 scikit-image
 openpyxl
+opencv-python-headless
+
