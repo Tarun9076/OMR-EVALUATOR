@@ -41,5 +41,5 @@ Results can be downloaded in CSV or JSON format.
 4-Academic projects
 
 Author
-Tarun Kumar
+Tarun Kumar, Shoab Saifi
 B.Tech CSE (AI & ML)
